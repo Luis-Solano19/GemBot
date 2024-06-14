@@ -9,3 +9,5 @@ Bwt im not saying the name of the game for privacy purposes and i have to state 
 - I HAVE NEVER GOTTEN ANY MONETARY INCOMES OFF OF THIS BOT.
 - I HAVEN NOT CREATED THIS BUT WITH ILLEGAL PURPOSES (Just to make my gaming experience better).
 
+- ![interface](https://github.com/Luis-Solano19/GemBot/assets/167251688/2547f86b-e230-4118-b387-a981fb093ea6)
+![finish](https://github.com/Luis-Solano19/GemBot/assets/167251688/30401004-d008-49ab-8dbc-2a96ca45631f)
