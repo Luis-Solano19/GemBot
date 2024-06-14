@@ -8,6 +8,8 @@ OVERALL BOT INTERFACE:
 
 
 OVERALL FUNCTIONALITY:
+
+
 ![melterbot](https://github.com/Luis-Solano19/GemBot/assets/167251688/a31fca91-d0dc-4a31-94ef-d9685a6006e1)
 
 
