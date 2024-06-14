@@ -19,6 +19,6 @@ https://github.com/Luis-Solano19/GemBot/assets/167251688/5d64ec54-a39a-4955-b758
 Bwt i'm not saying the name of the game for privacy purposes but i have to state the following:
 
 - I HAVE NEVER AND WILL NEVER DISTRIBUTE THIS BOT TO OTHER USERS WITHING THE GAME NOR WILL I SEEK TO MAKE ANY MONETARY INCOME OFF OF IT.
-- I HAVE NEVER GOTTEN ANY MONETARY INCOMES OFF OF THIS BOT.
-- I HAVEN NOT CREATED THIS BUT WITH ILLEGAL PURPOSES (Just to make my gaming experience better).
+- I HAVE NEVER GOTTEN ANY MONETARY INCOME OFF OF THIS BOT.
+- I HAVEN NOT CREATED THIS BOT WITH ILLEGAL PURPOSES (Just to make my gaming experience better).
 
